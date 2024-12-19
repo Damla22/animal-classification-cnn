@@ -4,6 +4,8 @@ Bu proje, 10 farklı hayvan türünü sınıflandırmak amacıyla CNN modelleri 
 # **Hayvan Sınıflandırma Projesi**
 ## 📌 **Proje Hakkında**
 Bu proje, Convolutional Neural Network (CNN) kullanarak 10 farklı hayvan sınıfını sınıflandırmayı amaçlamaktadır. Model, eğitim sırasında veri manipülasyonlarının etkilerini analiz etmek ve sonuçları iyileştirmek için geliştirilmiştir.
+[Kaggle Projesi](https://www.kaggle.com/code/damlagkta/goruntuisleme)
+
 
 ## 📂 **Veri Seti**
 Bu projede kullanılan veri setine şu bağlantıdan ulaşabilirsiniz:  
