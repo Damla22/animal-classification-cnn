@@ -22,11 +22,11 @@ Bu projede kullanılan veri setine şu bağlantıdan ulaşabilirsiniz:
 
 ## **🛠️ Kullanılan Kütüphaneler**
 Proje kapsamında aşağıdaki kütüphaneler kullanılmıştır:
-**NumPy:** Veri manipülasyonu ve diziler için.
-**OpenCV:** Görüntü işleme ve boyutlandırma için.
-**Matplotlib:** Veri görselleştirme için.
-**Scikit-learn:** Veri seti ayrımı için.
-**TensorFlow/Keras:** Derin öğrenme modeli oluşturmak ve eğitmek için.
+* NumPy: Veri manipülasyonu ve diziler için.
+* OpenCV: Görüntü işleme ve boyutlandırma için.
+* Matplotlib: Veri görselleştirme için.
+* Scikit-learn: Veri seti ayrımı için.
+* TensorFlow/Keras: Derin öğrenme modeli oluşturmak ve eğitmek için.
 ---
 
 ## **📊 Yapılan Analizler ve İşlemler**
